@@ -75,7 +75,6 @@ Transformando de polares a rectangulares
 
 ![image](https://user-images.githubusercontent.com/94079321/155738742-58a6e6b9-559e-409f-8404-58adb424256c.png)
 
-Comparación de Resultados
 
 Problema 3
 
@@ -90,6 +89,8 @@ Problema 3
 ![image](https://user-images.githubusercontent.com/94079321/155741174-6d8641da-6b5d-4970-85dd-480ac92a074c.png)
 
 47.357 - 19.692j || 47.35677... - 19.69304...j
+
+Comparación de Resultados 
 
 5. Conclusiones
 
