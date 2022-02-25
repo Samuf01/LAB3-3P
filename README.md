@@ -42,25 +42,40 @@ Transformando de rectangulares a polares
 
 - (2+3j)
 
+![image](https://user-images.githubusercontent.com/94079321/155738323-5d5da7c8-6077-45ff-bbf7-5a610a59f3df.png)
 
 - (-8+6.2j)
 
+![image](https://user-images.githubusercontent.com/94079321/155738381-3e0d8f7e-c8b0-4148-b359-41c559ca40f0.png)
 
 - (4.3-2.8j)
 
+![image](https://user-images.githubusercontent.com/94079321/155738420-caee6def-d088-4ccd-915f-7c6295b802f6.png)
 
 - (-6-3.2j)
+
+![image](https://user-images.githubusercontent.com/94079321/155738473-a1b37272-1db9-4f75-b091-a13b088be919.png)
+
 
 Transformando de polares a rectangulares
 
 - 36 | -10°
 
-- 28.7 | 135°
+![image](https://user-images.githubusercontent.com/94079321/155738628-5832155a-cab7-4e80-8a0e-2c2ae3c3440c.png)
+
+- 28,7 | 135°
+
+![image](https://user-images.githubusercontent.com/94079321/155738666-d78d91a8-44d9-4b01-9d40-3bb1f79fc2e7.png)
 
 -  11,2 | 28
 
+![image](https://user-images.githubusercontent.com/94079321/155738715-955b3f0b-7727-435e-8a8f-55b448b7ee9c.png)
+
 - 45 | -117,9°
 
+![image](https://user-images.githubusercontent.com/94079321/155738742-58a6e6b9-559e-409f-8404-58adb424256c.png)
+
+Comparación de Resultados
 
 
 5. Conclusiones
