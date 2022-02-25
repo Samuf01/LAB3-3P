@@ -104,6 +104,9 @@ Problema 3
 
 47.357 - 19.692j || 47.35677... - 19.69304...j
 
+Comparación de Resultados
+
+![image](https://user-images.githubusercontent.com/94079321/155760177-f3854e43-4462-48da-8ac2-619c24d1bb78.png)
 
 5. Conclusiones
 
