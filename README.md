@@ -14,7 +14,7 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 1 Calculadora científica 
 
-PROCEDIMIENTOS:
+4.Procedimientos: 
 
 1. Transformar a su forma polar:
  
@@ -23,6 +23,8 @@ PROCEDIMIENTOS:
 2. Transforme a su forma rectangular:
 
 ![image](https://user-images.githubusercontent.com/94079321/155719302-8607029e-21f6-4e67-88da-2520f037eda7.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155736698-8c67af83-4c95-4cdd-8cf0-e3fc60863085.png)
 
 3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.  
 
@@ -35,6 +37,31 @@ PROCEDIMIENTOS:
 ![image](https://user-images.githubusercontent.com/94079321/155736072-cce3ee29-403d-46c8-bea1-56ec6ca6a711.png)
 
 4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+Transformando de rectangulares a polares
+
+- (2+3j)
+
+
+- (-8+6.2j)
+
+
+- (4.3-2.8j)
+
+
+- (-6-3.2j)
+
+Transformando de polares a rectangulares
+
+- 36 | -10°
+
+- 28.7 | 135°
+
+-  11,2 | 28
+
+- 45 | -117,9°
+
+
 
 5. Conclusiones
 
