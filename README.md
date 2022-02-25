@@ -2,7 +2,7 @@
 
 1. Objetivos
 
-1.1. Objetivo General
+1.1.  Objetivo General.
 
 - Resolver los diferentes problemas con números complejos y sus transformaciones en la forma rectangular y polar.
 
