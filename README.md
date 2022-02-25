@@ -77,6 +77,13 @@ Transformando de polares a rectangulares
 
 Comparación de Resultados
 
+Problema 3
+
+![image](https://user-images.githubusercontent.com/94079321/155741111-8fada949-a35f-491f-b314-ea42044af6e1.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155741146-54aa9f31-d8d4-4600-831c-1e565c127655.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155741174-6d8641da-6b5d-4970-85dd-480ac92a074c.png)
 
 5. Conclusiones
 
