@@ -34,7 +34,7 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 ![image](https://user-images.githubusercontent.com/94079321/155736026-812a78e1-7e3d-4b85-a220-60e1285c9137.png)
 
-![image](https://user-images.githubusercontent.com/94079321/155736072-cce3ee29-403d-46c8-bea1-56ec6ca6a711.png)
+![image](https://user-images.githubusercontent.com/94079321/155739914-cd431eff-ca16-49d4-916a-70d09a354465.png)
 
 4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
