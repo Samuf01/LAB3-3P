@@ -28,6 +28,12 @@ PROCEDIMIENTOS:
 
 ![image](https://user-images.githubusercontent.com/94079321/155719325-6147f394-37c4-4ac3-a932-647f8d4995b2.png)
 
+![image](https://user-images.githubusercontent.com/94079321/155735980-de6b95f0-e10e-4581-98af-8d7ecb72de22.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155736026-812a78e1-7e3d-4b85-a220-60e1285c9137.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155736072-cce3ee29-403d-46c8-bea1-56ec6ca6a711.png)
+
 4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
 5. Conclusiones
