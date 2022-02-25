@@ -6,7 +6,7 @@
 
 1.2. Objetivo Especifico
 
-2. Información general
+2. Informacion General 
 
 Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con el sistema de los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen tanto magnitud como ángulo.
 
@@ -14,10 +14,10 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
 
 1 Calculadora científica 
 
-4. Procedimiento
+PROCEDIMIENTOS:
 
-1. Transforme a su forma polar:
-
+1. Transformar a su forma polar:
+ 
 ![image](https://user-images.githubusercontent.com/94079321/155719284-bc48e860-ec52-4fdc-9110-bc71bcaec9ab.png)
 
 2. Transforme a su forma rectangular:
