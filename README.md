@@ -104,7 +104,6 @@ Problema 3
 
 47.357 - 19.692j || 47.35677... - 19.69304...j
 
-Comparación de Resultados 
 
 5. Conclusiones
 
