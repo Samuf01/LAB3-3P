@@ -26,7 +26,15 @@ Los números complejos permiten realizar operaciones matemáticas con cantidades
  
 ![image](https://user-images.githubusercontent.com/94079321/155719284-bc48e860-ec52-4fdc-9110-bc71bcaec9ab.png)
 
-2. Transforme a su forma rectangular:
+![image](https://user-images.githubusercontent.com/94079321/155757032-6ac67709-6c7c-49e0-8d84-1e3bc6324fb5.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155757062-50e84f96-ad22-477a-8a37-fd9b6a930afe.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155757089-55904349-6bc2-4ec3-9f2a-cabba2ea2cf0.png)
+
+![image](https://user-images.githubusercontent.com/94079321/155757107-d01c118d-761a-4814-b6d4-84ca82359988.png)
+
+2. Transformar una su forma rectangular:
 
 ![image](https://user-images.githubusercontent.com/94079321/155719302-8607029e-21f6-4e67-88da-2520f037eda7.png)
 
