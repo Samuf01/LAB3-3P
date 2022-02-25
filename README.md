@@ -4,7 +4,13 @@
 
 1.1. Objetivo General
 
+- Resolver los diferentes problemas con números complejos y sus transformaciones en la forma rectangular y polar.
+
 1.2. Objetivo Especifico
+
+- Determinar para que sirve la transformación de un número complejo de forma rectangular forma polar y viceversa.
+
+- Resolver operaciones algebraicas con números complejos tales como la suma, resta, multiplicación y división.
 
 2. Informacion General 
 
@@ -93,6 +99,10 @@ Problema 3
 Comparación de Resultados 
 
 5. Conclusiones
+
+- En las operaciones algebraicas de números complejos debemos tener en claro que nuestra parte imaginaria únicamente se resolverá junto a la parte imaginaria de los otros valores que acompañen la operación mientras que los números naturales se resuelven entre sí.
+
+- Los números complejos también son de suma importancia para los factores debido a que este en sí es un número complejo que normalmente se nos dará en forma de una magnitud y un ángulo.
 
 6. Biblíografia
 
