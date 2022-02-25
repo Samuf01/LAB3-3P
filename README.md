@@ -81,9 +81,15 @@ Problema 3
 
 ![image](https://user-images.githubusercontent.com/94079321/155741111-8fada949-a35f-491f-b314-ea42044af6e1.png)
 
+4.932 + 16.567j || 4.938 + 16.569j
+
 ![image](https://user-images.githubusercontent.com/94079321/155741146-54aa9f31-d8d4-4600-831c-1e565c127655.png)
 
+-3.377 + 5.344j || -3.377 + 5.344j
+
 ![image](https://user-images.githubusercontent.com/94079321/155741174-6d8641da-6b5d-4970-85dd-480ac92a074c.png)
+
+47.357 - 19.692j || 47.35677... - 19.69304...j
 
 5. Conclusiones
 
